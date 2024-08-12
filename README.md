@@ -4,6 +4,6 @@
 ## Informe 1: Mantenimiento a una computadora(https://github.com/Emmagx/Practicas_Iniciales_Docs/)
 ### Video de youtube: https://youtu.be/KsooxEinOc0
 
-## Informe 2: Sistemas Operativos y Conexiones(https://github.com/Emmagx/Practicas_Iniciales_Docs/Informe2)
+## Informe 2: Sistemas Operativos y Conexiones(https://github.com/Emmagx/Practicas_Iniciales_Docs/)
 ### Video 1 de youtube: [https://youtu.be/FvwA_OTbVnQ]
 ### Video 2 de youtube: https://youtu.be/KsooxEinOc0
