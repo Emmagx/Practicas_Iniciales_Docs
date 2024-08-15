@@ -6,4 +6,5 @@
 
 ## Informe 2: Sistemas Operativos y Conexiones(https://github.com/Emmagx/Practicas_Iniciales_Docs/)
 ### Video 1 de youtube: [https://youtu.be/FvwA_OTbVnQ]
-### Video 2 de youtube: https://youtu.be/KsooxEinOc0
+### Video 2 de youtube: https://www.youtube.com/watch?v=v4zBfuryC98
+### Video extra: instalacion de Maquina Virtual: https://youtu.be/fMHAWCkYLl4
